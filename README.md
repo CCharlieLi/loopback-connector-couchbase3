@@ -41,15 +41,15 @@ run: `npm test`
 
 ```
  project  : loopback-connector-couchbase3
- repo age : 5 months
- active   : 38 days
- commits  : 78
+ repo age : 12 months
+ active   : 44 days
+ commits  : 88
  files    : 34
- authors  :
-    41  Makara Wang        52.6%
-    23  CCharlieLi         29.5%
-     7  chopperlee         9.0%
-     3  Leo Zhou           3.8%
-     3  wwayne             3.8%
-     1  greenkeeperio-bot  1.3%
+ authors  : 
+    47  Makara Wang        53.4%
+    25  CCharlieLi         29.5%
+     7  chopperlee         8.0%
+     3  Leo Zhou           3.4%
+     3  wwayne             3.4%
+     2  greenkeeperio-bot  2.3%
 ```
